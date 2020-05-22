@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="80%">
+      <h1>程自岚</h1>
+      <p><b>最近兴趣: 随机过程，机器学习</b></p>      
+      <p><b>邮箱: 1345114086@qq.com</b></p>
+    </td>
+    <td width="20%">
+      <img src="/zilancheng.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/ZilanCheng/zilancheng-ch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 上海大学, 2016.9-2020.7 (预计)
+- **数学与应用数学专业学士**
+- **绩点：**3.9/4.0，**排名：**1/341
+- **获奖：**2019-2020年上海市优秀毕业生（学院排名第一）；
+2018年上海大学本科生校长奖学金（上海大学本科生在校最高荣誉；本年度唯一非毕业班获得者）
+- 已获得**杜克大学统计硕士（去向）**、芝加哥大学计算与应用数学硕士、密歇根大学安娜堡分校数据科学硕士等九个项目录取
 
-### Markdown
+#### 宾夕法尼亚大学, 2019.7
+- **项目：** 沃顿商学院本科生领导力夏令营
+- 在珠峰模拟挑战中担任Leader并成功登顶获得最高分；在协商研讨模拟中成功使用心理战术赢得交易
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 剑桥大学, 2018.7-2018.8
+- **项目：** 剑桥大学暑期学术项目
+- 在机器学习与数据挖掘算法课程中得分**A+**
 
-```markdown
-Syntax highlighted code block
+荣誉/奖项
+- 2018年全国大学生数学建模竞赛国家二等奖、上海赛区一等奖（排名前3%）
+- 2018年美国大学生数学建模竞赛Honorable Mention
+- 2018年上海市奖学金（本年度理学院唯一非毕业生获得者）
+- 2019-2020年上海市优秀毕业生（学院排名第一）
+- 2018年上海大学本科生校长奖学金（本年度上海大学唯一非毕业生获得者）
+- 2018-2019年度上海大学学业特等奖学金（绩点排名前3%）
+- 2017-2018年度上海大学学业特等奖学金（绩点排名前3%）
+- 2016-2017年度上海大学学业特等奖学金（绩点排名前3%）
+- 2018年上海大学高等数学竞赛专业组二等奖
+- 2017-2018年度上海大学优秀学生
+- 2016-2017年度上海大学优秀学生
+- 2018年上海大学海外学习优秀奖学金
+- 2018-2019年度上海大学创新创业奖学金
+- 2017-2018年度上海大学创新创业奖学金
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 学术项目
 
-1. Numbered
-2. List
+#### Python课程项目：基于Django框架的CMS系统基础功能实现, July 2019
+- 设计具备用户注册、登入与登出、图片与文字提交、登入与登出时间点记录、访问数据统计等一系列基础功能的网页
 
-**Bold** and _Italic_ and `Code` text
+#### Matlab课程项目：蓝色车牌识别, July 2018
+- 完成汽车图片获取、图像预处理、车牌区域提取、车牌字母分割、车牌字母识别等一系列任务
+- 通过模板识别方法与机器学习方法将识别正确率提高到80%
 
-[Link](url) and ![Image](src)
-```
+#### 数学建模：高温作业专用三层服装的厚度参数设计, Sept.2018
+- 建立问题描述的热传导方程组与边界条件并通过有限差分法获得数值解
+- 使用黄金分隔法快速求解服装材料的最优厚度
+- 更深刻地掌握了偏微分方程、数值分析与运筹学的相关知识
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 数学建模：基于合理避税原则的薪资领取方案, June 2018
+- 运用时间序列与Prophet机器学习平台预测不同种类金融产品收益并建立最优投资组合
+- 建立非线性目标规划模型计算月付工资与年终奖分配比例以最大化税后收入
 
-### Jekyll Themes
+#### 数学建模：气候变化对区域不稳定性的影响, Feb.2018
+- 通过综合评价方法（层次分析法&BP神经网络）建立了脆弱地区指数，在大数据基础上量化了区域脆弱性与包括气候在内的一系列因素之间的联系
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZilanCheng/zilancheng-ch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人兴趣与技能
+- **兴趣：**软笔书法（全国艺术水平考级九级优秀）
+- **英语技能：**GRE331分，TOEFL103分
+- **软件技能：**熟悉MATLAB，Mathematica，Python，C/C++
